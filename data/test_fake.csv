@@ -1,0 +1,11 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
+1,1,"Smith, Mrs. Anna",female,30,1,0,PC 17599,120.0,B28,C,1
+2,3,"Doe, Miss. Mary",female,25,0,0,A/5 21171,7.25,,S,1
+3,1,"Brown, Master. Henry",male,6,2,2,113781,150.0,C83,C,1
+4,3,"Lee, Miss. Sophie",female,8,1,3,W./C. 6608,21.0,,S,1
+5,1,"Johnson, Mr. Robert",male,40,0,0,PC 17756,108.9,C85,S,0
+6,3,"Williams, Mr. John",male,35,0,0,373450,8.05,,S,0
+7,1,"Taylor, Mrs. Grace",female,68,0,1,PC 17483,120.0,E31,C,1
+8,3,"Clark, Mrs. Ellen",female,70,0,0,330877,7.75,,Q,0
+9,1,"Anderson, Mr. George",male,72,0,1,113798,80.0,D33,S,0
+10,3,"Martins, Mr. Pedro",male,74,0,0,345763,6.95,,S,0
